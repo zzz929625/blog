@@ -3,78 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://homesss.cc/en/authors/</loc>
+    <loc>https://zzzhome.cc/en/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://homesss.cc/authors/"
+      href="https://zzzhome.cc/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://homesss.cc/en/authors/"
+      href="https://zzzhome.cc/en/authors/"
     />
   </url>
   <url>
-    <loc>https://homesss.cc/en/</loc>
+    <loc>https://zzzhome.cc/en/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://homesss.cc/"
+      href="https://zzzhome.cc/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://homesss.cc/en/"
+      href="https://zzzhome.cc/en/"
     />
   </url>
   <url>
-    <loc>https://homesss.cc/en/categories/</loc>
+    <loc>https://zzzhome.cc/en/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://homesss.cc/categories/"
+      href="https://zzzhome.cc/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://homesss.cc/en/categories/"
+      href="https://zzzhome.cc/en/categories/"
     />
   </url>
   <url>
-    <loc>https://homesss.cc/en/series/</loc>
+    <loc>https://zzzhome.cc/en/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://homesss.cc/series/"
+      href="https://zzzhome.cc/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://homesss.cc/en/series/"
+      href="https://zzzhome.cc/en/series/"
     />
   </url>
   <url>
-    <loc>https://homesss.cc/en/tags/</loc>
+    <loc>https://zzzhome.cc/en/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://homesss.cc/tags/"
+      href="https://zzzhome.cc/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://homesss.cc/en/tags/"
+      href="https://zzzhome.cc/en/tags/"
     />
   </url>
 </urlset>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on zzzHome</title>
-    <link>https://homesss.cc/tags/windows/</link>
+    <link>https://zzzhome.cc/tags/windows/</link>
     <description>Recent content in Windows on zzzHome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 zzzHome</copyright>
-    <lastBuildDate>Thu, 16 Jan 2025 20:34:48 +0800</lastBuildDate><atom:link href="https://homesss.cc/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jan 2025 20:34:48 +0800</lastBuildDate><atom:link href="https://zzzhome.cc/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Proxmox下安装Windows 11</title>
-      <link>https://homesss.cc/posts/20250116-windows-install/</link>
+      <link>https://zzzhome.cc/posts/20250116-windows-install/</link>
       <pubDate>Thu, 16 Jan 2025 20:34:48 +0800</pubDate>
       
-      <guid>https://homesss.cc/posts/20250116-windows-install/</guid>
+      <guid>https://zzzhome.cc/posts/20250116-windows-install/</guid>
       <description>Proxmox下安装Windows 11与基本配置</description>
       
     </item>

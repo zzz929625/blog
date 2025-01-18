@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://homesss.cc/sitemap.xml
+Sitemap: https://zzzhome.cc/sitemap.xml

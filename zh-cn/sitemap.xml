@@ -3,174 +3,174 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://homesss.cc/posts/20250118-new-posts/</loc>
+    <loc>https://zzzhome.cc/posts/20250118-new-posts/</loc>
     <lastmod>2025-01-18T21:34:44+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://homesss.cc/</loc>
-    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://homesss.cc/en/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://homesss.cc/"
-    />
-  </url>
-  <url>
-    <loc>https://homesss.cc/posts/</loc>
-    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://homesss.cc/authors/zmy/</loc>
-    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://homesss.cc/authors/</loc>
+    <loc>https://zzzhome.cc/</loc>
     <lastmod>2025-01-18T21:34:44+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://homesss.cc/en/authors/"
+      href="https://zzzhome.cc/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://homesss.cc/authors/"
+      href="https://zzzhome.cc/"
     />
   </url>
   <url>
-    <loc>https://homesss.cc/tags/git/</loc>
+    <loc>https://zzzhome.cc/posts/</loc>
+    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/authors/zmy/</loc>
+    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/authors/</loc>
+    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://zzzhome.cc/en/authors/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://zzzhome.cc/authors/"
+    />
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/tags/git/</loc>
     <lastmod>2025-01-18T19:11:06+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://homesss.cc/tags/hugo/</loc>
+    <loc>https://zzzhome.cc/tags/hugo/</loc>
     <lastmod>2025-01-18T19:11:06+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://homesss.cc/posts/20250118-hugo-git/</loc>
+    <loc>https://zzzhome.cc/posts/20250118-hugo-git/</loc>
     <lastmod>2025-01-18T19:11:06+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://homesss.cc/tags/</loc>
+    <loc>https://zzzhome.cc/tags/</loc>
     <lastmod>2025-01-18T19:11:06+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://homesss.cc/en/tags/"
+      href="https://zzzhome.cc/en/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://homesss.cc/tags/"
+      href="https://zzzhome.cc/tags/"
     />
   </url>
   <url>
-    <loc>https://homesss.cc/categories/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://zzzhome.cc/categories/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2025-01-18T19:11:06+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://homesss.cc/categories/</loc>
+    <loc>https://zzzhome.cc/categories/</loc>
     <lastmod>2025-01-18T19:11:06+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://homesss.cc/en/categories/"
+      href="https://zzzhome.cc/en/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://homesss.cc/categories/"
+      href="https://zzzhome.cc/categories/"
     />
   </url>
   <url>
-    <loc>https://homesss.cc/authors/zwt/</loc>
+    <loc>https://zzzhome.cc/authors/zwt/</loc>
     <lastmod>2025-01-18T19:11:06+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://homesss.cc/categories/homelab/</loc>
+    <loc>https://zzzhome.cc/categories/homelab/</loc>
     <lastmod>2025-01-16T20:34:48+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://homesss.cc/tags/proxmox/</loc>
+    <loc>https://zzzhome.cc/tags/proxmox/</loc>
     <lastmod>2025-01-16T20:34:48+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://homesss.cc/posts/20250116-windows-install/</loc>
+    <loc>https://zzzhome.cc/posts/20250116-windows-install/</loc>
     <lastmod>2025-01-16T20:34:48+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://homesss.cc/tags/windows/</loc>
+    <loc>https://zzzhome.cc/tags/windows/</loc>
     <lastmod>2025-01-16T20:34:48+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://homesss.cc/tags/advanced/_index.it/</loc>
+    <loc>https://zzzhome.cc/tags/advanced/_index.it/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://homesss.cc/tags/advanced/_index.ja/</loc>
+    <loc>https://zzzhome.cc/tags/advanced/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://homesss.cc/tags/advanced/</loc>
+    <loc>https://zzzhome.cc/tags/advanced/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://homesss.cc/about/</loc>
+    <loc>https://zzzhome.cc/about/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://homesss.cc/series/</loc>
+    <loc>https://zzzhome.cc/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://homesss.cc/en/series/"
+      href="https://zzzhome.cc/en/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://homesss.cc/series/"
+      href="https://zzzhome.cc/series/"
     />
   </url>
 </urlset>
