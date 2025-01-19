@@ -1310,6 +1310,123 @@
 
 
     
+    
+    <div class="pt-3">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+      <div class="pt-3">
+        <div id="cusdis_thread"
+  data-host="https://cm.zzzhome.cc"
+  data-app-id="71777ae3-6030-49d6-9c8a-516ea1439406"
+  data-page-id="2c9e88355c9a89d4a4934a5bc0b7a1c3"
+  data-page-url="https://zzzhome.cc/posts/20250118-hugo-git/"
+  data-page-title="hugo博客使用git部署中遇到的问题"
+></div>
+<script async defer src="https://cm.zzzhome.cc/js/cusdis.es.js"></script>
+
+
+<script>
+    
+    const updateIframeHeight = (iframe) => {
+        
+        const height = window.innerHeight * 0.2;
+
+        
+        iframe.style.height = `${height}px`;
+    };
+
+    
+    const updateIframeStylesAndHeight = (iframe) => {
+        
+        const isDarkMode = document.documentElement.classList.contains('scroll-smooth') && document.documentElement.classList.contains('dark');
+        const iframeDocument = iframe.contentDocument || iframe.contentWindow.document;
+
+        
+        const aspectRatio = 16 / 9;
+        const width = iframe.offsetWidth;
+        const height = width / aspectRatio;  
+
+        
+        iframe.style.height = `${height}px`;
+
+        
+        const additionalStyles = `
+            .dark {
+                background: black !important;
+                color: white !important;
+            }
+            .light {
+                background: white !important;
+                color: black !important;
+            }
+
+            /* label 元素的颜色变化 */
+            label.dark\\:text-gray-200 {
+                color: ${isDarkMode ? 'white' : 'black'} !important;
+            }
+            label.text-gray-200 {
+                color: ${isDarkMode ? 'black' : 'black'} !important;
+            }
+        `;
+
+        
+        const styleTag = document.createElement('style');
+        styleTag.innerHTML = additionalStyles;
+        iframeDocument.head.appendChild(styleTag);
+    };
+
+    
+    const observer = new MutationObserver((mutations) => {
+        mutations.forEach((mutation) => {
+            if (mutation.addedNodes.length === 0) return;
+            const iframe = mutation.addedNodes[0];
+            if (iframe.tagName !== 'IFRAME') return;
+
+            
+            iframe.onload = () => {
+                updateIframeStylesAndHeight(iframe);
+            };
+
+            
+            updateIframeStylesAndHeight(iframe);
+
+            
+            window.addEventListener('resize', () => {
+                updateIframeStylesAndHeight(iframe);
+            });
+        });
+    });
+
+    
+    observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+
+    
+    const themeObserver = new MutationObserver(() => {
+        const isDarkMode = document.documentElement.classList.contains('scroll-smooth') && document.documentElement.classList.contains('dark');
+
+        const iframes = document.querySelectorAll('iframe');
+        iframes.forEach((iframe) => {
+            const iframeDocument = iframe.contentDocument || iframe.contentWindow.document;
+            if (iframeDocument) {
+                
+                updateIframeStylesAndHeight(iframe);
+            }
+        });
+    });
+
+    themeObserver.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] });
+
+    
+    document.addEventListener('DOMContentLoaded', () => {
+        const iframes = document.querySelectorAll('iframe');
+        iframes.forEach((iframe) => {
+            updateIframeStylesAndHeight(iframe);
+        });
+    });
+</script>
+      </div>
+    </div>
+    
+    
   </footer>
 </article>
 
