@@ -3,10 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://zzzhome.cc/posts/20250118-new-posts/</loc>
+    <loc>https://zzzhome.cc/posts/20250118-juejiao/</loc>
     <lastmod>2025-01-18T21:34:44+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/categories/</loc>
+    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://zzzhome.cc/en/categories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://zzzhome.cc/categories/"
+    />
   </url>
   <url>
     <loc>https://zzzhome.cc/</loc>
@@ -23,6 +39,12 @@
       hreflang="zh-cn"
       href="https://zzzhome.cc/"
     />
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/categories/%E4%B9%A6%E8%AF%84/</loc>
+    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://zzzhome.cc/posts/</loc>
@@ -91,22 +113,6 @@
     <lastmod>2025-01-18T19:11:06+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://zzzhome.cc/categories/</loc>
-    <lastmod>2025-01-18T19:11:06+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://zzzhome.cc/en/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://zzzhome.cc/categories/"
-    />
   </url>
   <url>
     <loc>https://zzzhome.cc/authors/zwt/</loc>
