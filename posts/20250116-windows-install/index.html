@@ -183,6 +183,29 @@
   <meta name="theme-color"/>
   
   
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyDqguJAv-z-kvacfEyWsIXwn_gbAV3kGZU",
+      authDomain: "AIzaSyDqguJAv-z-kvacfEyWsIXwn_gbAV3kGZU",
+      projectId: "blog-d9203",
+      storageBucket: "blog-d9203.firebasestorage.app",
+      messagingSenderId: "244568342394",
+      appId: "1:244568342394:web:d5deb29f49a3fa807020c3",
+      measurementId: "G-1K6DYMJVG3"
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
+  
+  
 </head>
 <body
   class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32 scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600">
@@ -1449,6 +1472,7 @@
   data-page-url="https://zzzhome.cc/posts/20250116-windows-install/"
   data-page-title="Proxmox下安装Windows 11"
 ></div>
+<script defer src="https://cm.zzzhome.cc/js/widget/lang/zh-cn.js"></script>
 <script async defer src="https://cm.zzzhome.cc/js/cusdis.es.js"></script>
 
 
@@ -1456,7 +1480,7 @@
     
     const updateIframeHeight = (iframe) => {
         
-        const height = window.innerHeight * 0.2;
+        const height = window.innerHeight * 0.3;
 
         
         iframe.style.height = `${height}px`;
@@ -1491,8 +1515,21 @@
             label.dark\\:text-gray-200 {
                 color: ${isDarkMode ? 'white' : 'black'} !important;
             }
-            label.text-gray-200 {
-                color: ${isDarkMode ? 'black' : 'black'} !important;
+            label.dark\\:text-gray-100 {
+                color: ${isDarkMode ? 'white' : 'black'} !important;
+            }
+            button, input, optgroup, select, textarea {
+                color: ${isDarkMode ? 'white' : 'black'} !important;
+            }
+            .font-medium {
+                color: ${isDarkMode ? 'white' : 'black'} !important;
+            }
+            .text-gray-500 {
+                color: ${isDarkMode ? '#CBD5E1' : '#334155'} !important;
+            }
+            .border-gray-200 {
+                --tw-border-opacity: 1;
+                border-color: rgb(150 150 150);
             }
         `;
 
