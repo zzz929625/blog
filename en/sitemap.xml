@@ -3,78 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://zzzhome.cc/en/authors/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://zzzhome.cc/authors/"
+      href="http://localhost:1313/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://zzzhome.cc/en/authors/"
+      href="http://localhost:1313/en/"
     />
   </url>
   <url>
-    <loc>https://zzzhome.cc/en/</loc>
+    <loc>http://localhost:1313/en/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://zzzhome.cc/"
+      href="http://localhost:1313/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://zzzhome.cc/en/"
+      href="http://localhost:1313/en/authors/"
     />
   </url>
   <url>
-    <loc>https://zzzhome.cc/en/categories/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://zzzhome.cc/categories/"
+      href="http://localhost:1313/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://zzzhome.cc/en/categories/"
+      href="http://localhost:1313/en/categories/"
     />
   </url>
   <url>
-    <loc>https://zzzhome.cc/en/series/</loc>
+    <loc>http://localhost:1313/en/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://zzzhome.cc/series/"
+      href="http://localhost:1313/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://zzzhome.cc/en/series/"
+      href="http://localhost:1313/en/series/"
     />
   </url>
   <url>
-    <loc>https://zzzhome.cc/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://zzzhome.cc/tags/"
+      href="http://localhost:1313/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://zzzhome.cc/en/tags/"
+      href="http://localhost:1313/en/tags/"
     />
   </url>
 </urlset>

@@ -3,180 +3,180 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://zzzhome.cc/posts/20250118-juejiao/</loc>
+    <loc>http://localhost:1313/posts/20250118-juejiao/</loc>
     <lastmod>2025-01-18T21:34:44+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/categories/</loc>
-    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://zzzhome.cc/en/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://zzzhome.cc/categories/"
-    />
-  </url>
-  <url>
-    <loc>https://zzzhome.cc/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-01-18T21:34:44+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://zzzhome.cc/en/"
+      href="http://localhost:1313/en/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://zzzhome.cc/"
+      href="http://localhost:1313/categories/"
     />
   </url>
   <url>
-    <loc>https://zzzhome.cc/categories/%E4%B9%A6%E8%AF%84/</loc>
-    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://zzzhome.cc/posts/</loc>
-    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://zzzhome.cc/authors/zmy/</loc>
-    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://zzzhome.cc/authors/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-01-18T21:34:44+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://zzzhome.cc/en/authors/"
+      href="http://localhost:1313/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://zzzhome.cc/authors/"
+      href="http://localhost:1313/"
     />
   </url>
   <url>
-    <loc>https://zzzhome.cc/tags/git/</loc>
+    <loc>http://localhost:1313/categories/%E4%B9%A6%E8%AF%84/</loc>
+    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/authors/zmy/</loc>
+    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/authors/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/authors/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/git/</loc>
     <lastmod>2025-01-18T19:11:06+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2025-01-18T19:11:06+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/posts/20250118-hugo-git/</loc>
+    <loc>http://localhost:1313/posts/20250118-hugo-git/</loc>
     <lastmod>2025-01-18T19:11:06+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-18T19:11:06+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://zzzhome.cc/en/tags/"
+      href="http://localhost:1313/en/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://zzzhome.cc/tags/"
+      href="http://localhost:1313/tags/"
     />
   </url>
   <url>
-    <loc>https://zzzhome.cc/categories/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>http://localhost:1313/categories/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2025-01-18T19:11:06+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/authors/zwt/</loc>
+    <loc>http://localhost:1313/authors/zwt/</loc>
     <lastmod>2025-01-18T19:11:06+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/categories/homelab/</loc>
+    <loc>http://localhost:1313/categories/homelab/</loc>
     <lastmod>2025-01-16T20:34:48+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/tags/proxmox/</loc>
+    <loc>http://localhost:1313/tags/proxmox/</loc>
     <lastmod>2025-01-16T20:34:48+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/posts/20250116-windows-install/</loc>
+    <loc>http://localhost:1313/posts/20250116-windows-install/</loc>
     <lastmod>2025-01-16T20:34:48+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/tags/windows/</loc>
+    <loc>http://localhost:1313/tags/windows/</loc>
     <lastmod>2025-01-16T20:34:48+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/tags/advanced/_index.it/</loc>
+    <loc>http://localhost:1313/tags/advanced/_index.it/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/tags/advanced/_index.ja/</loc>
+    <loc>http://localhost:1313/tags/advanced/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/tags/advanced/</loc>
+    <loc>http://localhost:1313/tags/advanced/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://zzzhome.cc/en/series/"
+      href="http://localhost:1313/en/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://zzzhome.cc/series/"
+      href="http://localhost:1313/series/"
     />
   </url>
 </urlset>
