@@ -3,19 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://zzzhome.cc/posts/20250118-juejiao/</loc>
-    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
+    <loc>https://zzzhome.cc/tags/abb%E5%A5%97%E4%BB%B6/</loc>
+    <lastmod>2025-01-22T22:31:55+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/categories/nas/</loc>
+    <lastmod>2025-01-22T22:31:55+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/tags/</loc>
+    <lastmod>2025-01-22T22:31:55+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://zzzhome.cc/categories/</loc>
-    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
+    <lastmod>2025-01-22T22:31:55+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://zzzhome.cc/</loc>
+    <lastmod>2025-01-22T22:31:55+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/tags/%E7%BE%A4%E6%99%96/</loc>
+    <lastmod>2025-01-22T22:31:55+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/posts/20250122-synology-abb/</loc>
+    <lastmod>2025-01-22T22:31:55+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/posts/</loc>
+    <lastmod>2025-01-22T22:31:55+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/authors/zwt/</loc>
+    <lastmod>2025-01-22T22:31:55+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/authors/</loc>
+    <lastmod>2025-01-22T22:31:55+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/posts/20250118-juejiao/</loc>
     <lastmod>2025-01-18T21:34:44+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -27,19 +75,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/posts/</loc>
-    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://zzzhome.cc/authors/zmy/</loc>
-    <lastmod>2025-01-18T21:34:44+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://zzzhome.cc/authors/</loc>
     <lastmod>2025-01-18T21:34:44+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -63,19 +99,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/tags/</loc>
-    <lastmod>2025-01-18T19:11:06+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://zzzhome.cc/categories/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2025-01-18T19:11:06+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://zzzhome.cc/authors/zwt/</loc>
     <lastmod>2025-01-18T19:11:06+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
