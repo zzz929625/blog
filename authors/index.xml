@@ -22,42 +22,7 @@
     &lt;div class=&#34;text-sm text-neutral-700 dark:text-neutral-400&#34;&gt;集齐布偶才是真正的布偶猫&lt;/div&gt;
     &lt;div class=&#34;text-2xl sm:text-lg&#34;&gt;
       &lt;div class=&#34;flex flex-wrap text-neutral-400 dark:text-neutral-500&#34;&gt;
-        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;https://linkedin.com/in/nunocoracao&#34; target=&#34;_blank&#34;
-          aria-label=&#34;{{ $name | title }}&#34; rel=&#34;me noopener noreferrer&#34;&gt;
-
-  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z&#34;/&gt;&lt;/svg&gt;
-
-  &lt;/span&gt;
-
-&lt;/a&gt;
-        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;https://twitter.com/nunocoracao&#34; target=&#34;_blank&#34;
-          aria-label=&#34;{{ $name | title }}&#34; rel=&#34;me noopener noreferrer&#34;&gt;
-
-  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
-
-&lt;/a&gt;
-        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;https://instagram.com/nunocoracao&#34; target=&#34;_blank&#34;
-          aria-label=&#34;{{ $name | title }}&#34; rel=&#34;me noopener noreferrer&#34;&gt;
-
-  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z&#34;/&gt;&lt;/svg&gt;
-
-  &lt;/span&gt;
-
-&lt;/a&gt;
-        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;https://medium.com/@nunocoracao&#34; target=&#34;_blank&#34;
-          aria-label=&#34;{{ $name | title }}&#34; rel=&#34;me noopener noreferrer&#34;&gt;
-
-  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 640 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M180.5,74.262C80.813,74.262,0,155.633,0,256S80.819,437.738,180.5,437.738,361,356.373,361,256,280.191,74.262,180.5,74.262Zm288.25,10.646c-49.845,0-90.245,76.619-90.245,171.095s40.406,171.1,90.251,171.1,90.251-76.619,90.251-171.1H559C559,161.5,518.6,84.908,468.752,84.908Zm139.506,17.821c-17.526,0-31.735,68.628-31.735,153.274s14.2,153.274,31.735,153.274S640,340.631,640,256C640,171.351,625.785,102.729,608.258,102.729Z&#34;/&gt;&lt;/svg&gt;
-
-  &lt;/span&gt;
-
-&lt;/a&gt;
-        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;https://github.com/nunocoracao&#34; target=&#34;_blank&#34;
+        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;https://m.weibo.cn/u/7518994961&#34; target=&#34;_blank&#34;
           aria-label=&#34;{{ $name | title }}&#34; rel=&#34;me noopener noreferrer&#34;&gt;
 
   &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
@@ -65,25 +30,7 @@
 
   &lt;/span&gt;
 
-&lt;/a&gt;
-        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;http://goodreads.com/nunocoracao&#34; target=&#34;_blank&#34;
-          aria-label=&#34;{{ $name | title }}&#34; rel=&#34;me noopener noreferrer&#34;&gt;
-
-  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;
-&lt;path fill=&#34;currentColor&#34; d=&#34;M299.9 191.2c5.1 37.3-4.7 79-35.9 100.7-22.3 15.5-52.8 14.1-70.8 5.7-37.1-17.3-49.5-58.6-46.8-97.2 4.3-60.9 40.9-87.9 75.3-87.5 46.9-.2 71.8 31.8 78.2 78.3zM448 88v336c0 30.9-25.1 56-56 56H56c-30.9 0-56-25.1-56-56V88c0-30.9 25.1-56 56-56h336c30.9 0 56 25.1 56 56zM330 313.2s-.1-34-.1-217.3h-29v40.3c-.8.3-1.2-.5-1.6-1.2-9.6-20.7-35.9-46.3-76-46-51.9.4-87.2 31.2-100.6 77.8-4.3 14.9-5.8 30.1-5.5 45.6 1.7 77.9 45.1 117.8 112.4 115.2 28.9-1.1 54.5-17 69-45.2.5-1 1.1-1.9 1.7-2.9.2.1.4.1.6.2.3 3.8.2 30.7.1 34.5-.2 14.8-2 29.5-7.2 43.5-7.8 21-22.3 34.7-44.5 39.5-17.8 3.9-35.6 3.8-53.2-1.2-21.5-6.1-36.5-19-41.1-41.8-.3-1.6-1.3-1.3-2.3-1.3h-26.8c.8 10.6 3.2 20.3 8.5 29.2 24.2 40.5 82.7 48.5 128.2 37.4 49.9-12.3 67.3-54.9 67.4-106.3z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
-
-&lt;/a&gt;
-        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;https://reddit.com/user/nunoheart&#34; target=&#34;_blank&#34;
-          aria-label=&#34;{{ $name | title }}&#34; rel=&#34;me noopener noreferrer&#34;&gt;
-
-  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M201.5 305.5c-13.8 0-24.9-11.1-24.9-24.6 0-13.8 11.1-24.9 24.9-24.9 13.6 0 24.6 11.1 24.6 24.9 0 13.6-11.1 24.6-24.6 24.6zM504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zm-132.3-41.2c-9.4 0-17.7 3.9-23.8 10-22.4-15.5-52.6-25.5-86.1-26.6l17.4-78.3 55.4 12.5c0 13.6 11.1 24.6 24.6 24.6 13.8 0 24.9-11.3 24.9-24.9s-11.1-24.9-24.9-24.9c-9.7 0-18 5.8-22.1 13.8l-61.2-13.6c-3-.8-6.1 1.4-6.9 4.4l-19.1 86.4c-33.2 1.4-63.1 11.3-85.5 26.8-6.1-6.4-14.7-10.2-24.1-10.2-34.9 0-46.3 46.9-14.4 62.8-1.1 5-1.7 10.2-1.7 15.5 0 52.6 59.2 95.2 132 95.2 73.1 0 132.3-42.6 132.3-95.2 0-5.3-.6-10.8-1.9-15.8 31.3-16 19.8-62.5-14.9-62.5zM302.8 331c-18.2 18.2-76.1 17.9-93.6 0-2.2-2.2-6.1-2.2-8.3 0-2.5 2.5-2.5 6.4 0 8.6 22.8 22.8 87.3 22.8 110.2 0 2.5-2.2 2.5-6.1 0-8.6-2.2-2.2-6.1-2.2-8.3 0zm7.7-75c-13.6 0-24.6 11.1-24.6 24.9 0 13.6 11.1 24.6 24.6 24.6 13.8 0 24.9-11.1 24.9-24.6 0-13.8-11-24.9-24.9-24.9z&#34;/&gt;&lt;/svg&gt;
-
-  &lt;/span&gt;
-
-&lt;/a&gt;                
+&lt;/a&gt;           
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
@@ -104,42 +51,7 @@
     &lt;div class=&#34;text-sm text-neutral-700 dark:text-neutral-400&#34;&gt;集齐布偶才是真正的布偶猫&lt;/div&gt;
     &lt;div class=&#34;text-2xl sm:text-lg&#34;&gt;
       &lt;div class=&#34;flex flex-wrap text-neutral-400 dark:text-neutral-500&#34;&gt;
-        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;https://linkedin.com/in/nunocoracao&#34; target=&#34;_blank&#34;
-          aria-label=&#34;{{ $name | title }}&#34; rel=&#34;me noopener noreferrer&#34;&gt;
-
-  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z&#34;/&gt;&lt;/svg&gt;
-
-  &lt;/span&gt;
-
-&lt;/a&gt;
-        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;https://twitter.com/nunocoracao&#34; target=&#34;_blank&#34;
-          aria-label=&#34;{{ $name | title }}&#34; rel=&#34;me noopener noreferrer&#34;&gt;
-
-  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
-
-&lt;/a&gt;
-        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;https://instagram.com/nunocoracao&#34; target=&#34;_blank&#34;
-          aria-label=&#34;{{ $name | title }}&#34; rel=&#34;me noopener noreferrer&#34;&gt;
-
-  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z&#34;/&gt;&lt;/svg&gt;
-
-  &lt;/span&gt;
-
-&lt;/a&gt;
-        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;https://medium.com/@nunocoracao&#34; target=&#34;_blank&#34;
-          aria-label=&#34;{{ $name | title }}&#34; rel=&#34;me noopener noreferrer&#34;&gt;
-
-  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 640 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M180.5,74.262C80.813,74.262,0,155.633,0,256S80.819,437.738,180.5,437.738,361,356.373,361,256,280.191,74.262,180.5,74.262Zm288.25,10.646c-49.845,0-90.245,76.619-90.245,171.095s40.406,171.1,90.251,171.1,90.251-76.619,90.251-171.1H559C559,161.5,518.6,84.908,468.752,84.908Zm139.506,17.821c-17.526,0-31.735,68.628-31.735,153.274s14.2,153.274,31.735,153.274S640,340.631,640,256C640,171.351,625.785,102.729,608.258,102.729Z&#34;/&gt;&lt;/svg&gt;
-
-  &lt;/span&gt;
-
-&lt;/a&gt;
-        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;https://github.com/nunocoracao&#34; target=&#34;_blank&#34;
+        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;https://github.com/anschein&#34; target=&#34;_blank&#34;
           aria-label=&#34;{{ $name | title }}&#34; rel=&#34;me noopener noreferrer&#34;&gt;
 
   &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
@@ -148,24 +60,14 @@
   &lt;/span&gt;
 
 &lt;/a&gt;
-        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;http://goodreads.com/nunocoracao&#34; target=&#34;_blank&#34;
+        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;https://space.bilibili.com/438505624&#34; target=&#34;_blank&#34;
           aria-label=&#34;{{ $name | title }}&#34; rel=&#34;me noopener noreferrer&#34;&gt;
 
   &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;
-&lt;path fill=&#34;currentColor&#34; d=&#34;M299.9 191.2c5.1 37.3-4.7 79-35.9 100.7-22.3 15.5-52.8 14.1-70.8 5.7-37.1-17.3-49.5-58.6-46.8-97.2 4.3-60.9 40.9-87.9 75.3-87.5 46.9-.2 71.8 31.8 78.2 78.3zM448 88v336c0 30.9-25.1 56-56 56H56c-30.9 0-56-25.1-56-56V88c0-30.9 25.1-56 56-56h336c30.9 0 56 25.1 56 56zM330 313.2s-.1-34-.1-217.3h-29v40.3c-.8.3-1.2-.5-1.6-1.2-9.6-20.7-35.9-46.3-76-46-51.9.4-87.2 31.2-100.6 77.8-4.3 14.9-5.8 30.1-5.5 45.6 1.7 77.9 45.1 117.8 112.4 115.2 28.9-1.1 54.5-17 69-45.2.5-1 1.1-1.9 1.7-2.9.2.1.4.1.6.2.3 3.8.2 30.7.1 34.5-.2 14.8-2 29.5-7.2 43.5-7.8 21-22.3 34.7-44.5 39.5-17.8 3.9-35.6 3.8-53.2-1.2-21.5-6.1-36.5-19-41.1-41.8-.3-1.6-1.3-1.3-2.3-1.3h-26.8c.8 10.6 3.2 20.3 8.5 29.2 24.2 40.5 82.7 48.5 128.2 37.4 49.9-12.3 67.3-54.9 67.4-106.3z&#34;/&gt;&lt;/svg&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M488.6 104.1C505.3 122.2 513 143.8 511.9 169.8V372.2C511.5 398.6 502.7 420.3 485.4 437.3C468.2 454.3 446.3 463.2 419.9 464H92C65.6 463.2 43.8 454.2 26.7 436.8C9.7 419.4 .8 396.5 0 368.2V169.8C.8 143.8 9.7 122.2 26.7 104.1C43.8 87.8 65.6 78.8 92 78H121.4L96.1 52.2C90.3 46.5 87.4 39.2 87.4 30.4C87.4 21.6 90.3 14.3 96.1 8.6C101.8 2.9 109.1 0 117.9 0C126.7 0 134 2.9 139.8 8.6L213.1 78H301.1L375.6 8.6C381.7 2.9 389.2 0 398 0C406.8 0 414.1 2.9 419.9 8.6C425.6 14.3 428.5 21.6 428.5 30.4C428.5 39.2 425.6 46.5 419.9 52.2L394.6 78L423.9 78C450.3 78.8 471.9 87.8 488.6 104.1H488.6zM449.8 173.8C449.4 164.2 446.1 156.4 439.1 150.3C433.9 144.2 425.1 140.9 416.4 140.5H96.1C86.5 140.9 78.6 144.2 72.5 150.3C66.3 156.4 63.1 164.2 62.7 173.8V368.2C62.7 377.4 66 385.2 72.5 391.7C79 398.2 86.9 401.5 96.1 401.5H416.4C425.6 401.5 433.4 398.2 439.7 391.7C446 385.2 449.4 377.4 449.8 368.2L449.8 173.8zM185.5 216.5C191.8 222.8 195.2 230.6 195.6 239.7V273C195.2 282.2 191.9 289.9 185.8 296.2C179.6 302.5 171.8 305.7 162.2 305.7C152.6 305.7 144.7 302.5 138.6 296.2C132.5 289.9 129.2 282.2 128.8 273V239.7C129.2 230.6 132.6 222.8 138.9 216.5C145.2 210.2 152.1 206.9 162.2 206.5C171.4 206.9 179.2 210.2 185.5 216.5H185.5zM377 216.5C383.3 222.8 386.7 230.6 387.1 239.7V273C386.7 282.2 383.4 289.9 377.3 296.2C371.2 302.5 363.3 305.7 353.7 305.7C344.1 305.7 336.3 302.5 330.1 296.2C323.1 289.9 320.7 282.2 320.4 273V239.7C320.7 230.6 324.1 222.8 330.4 216.5C336.7 210.2 344.5 206.9 353.7 206.5C362.9 206.9 370.7 210.2 377 216.5H377z&#34;/&gt;&lt;/svg&gt;
   &lt;/span&gt;
 
-&lt;/a&gt;
-        &lt;a class=&#34;px-1 hover:text-primary-700 dark:hover:text-primary-400&#34; href=&#34;https://reddit.com/user/nunoheart&#34; target=&#34;_blank&#34;
-          aria-label=&#34;{{ $name | title }}&#34; rel=&#34;me noopener noreferrer&#34;&gt;
-
-  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M201.5 305.5c-13.8 0-24.9-11.1-24.9-24.6 0-13.8 11.1-24.9 24.9-24.9 13.6 0 24.6 11.1 24.6 24.9 0 13.6-11.1 24.6-24.6 24.6zM504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zm-132.3-41.2c-9.4 0-17.7 3.9-23.8 10-22.4-15.5-52.6-25.5-86.1-26.6l17.4-78.3 55.4 12.5c0 13.6 11.1 24.6 24.6 24.6 13.8 0 24.9-11.3 24.9-24.9s-11.1-24.9-24.9-24.9c-9.7 0-18 5.8-22.1 13.8l-61.2-13.6c-3-.8-6.1 1.4-6.9 4.4l-19.1 86.4c-33.2 1.4-63.1 11.3-85.5 26.8-6.1-6.4-14.7-10.2-24.1-10.2-34.9 0-46.3 46.9-14.4 62.8-1.1 5-1.7 10.2-1.7 15.5 0 52.6 59.2 95.2 132 95.2 73.1 0 132.3-42.6 132.3-95.2 0-5.3-.6-10.8-1.9-15.8 31.3-16 19.8-62.5-14.9-62.5zM302.8 331c-18.2 18.2-76.1 17.9-93.6 0-2.2-2.2-6.1-2.2-8.3 0-2.5 2.5-2.5 6.4 0 8.6 22.8 22.8 87.3 22.8 110.2 0 2.5-2.2 2.5-6.1 0-8.6-2.2-2.2-6.1-2.2-8.3 0zm7.7-75c-13.6 0-24.6 11.1-24.6 24.9 0 13.6 11.1 24.6 24.6 24.6 13.8 0 24.9-11.1 24.9-24.6 0-13.8-11-24.9-24.9-24.9z&#34;/&gt;&lt;/svg&gt;
-
-  &lt;/span&gt;
-
-&lt;/a&gt;                
+&lt;/a&gt;            
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
