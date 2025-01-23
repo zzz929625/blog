@@ -141,6 +141,26 @@
 
 
 
+<script data-id="umami-script" async
+        src="https://zzzhome.cc/index.js"
+        data-website-id="bc0f58cf-cbc7-4437-9e80-00ac5c842ba0"
+        >
+</script>
+
+
+
+<script type="text/javascript">
+    document.querySelector('script[data-id="umami-script"]')
+        .addEventListener('load', function () {
+            const type = document.head.querySelector('meta[property = "og:type"]').getAttribute('content');
+            let title = document.head.querySelector('meta[property = "og:title"]').getAttribute('content');
+            let url = document.head.querySelector('meta[property = "og:url"]').getAttribute('content');
+            umami.track(type + ':' + title, {'url': url});
+    });
+</script>
+
+
+
   
   
   <script>
@@ -735,10 +755,30 @@
   
   
 <div>
-<a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="采用 CC BY-NC-SA 4.0 协议" style="display:inline-block;margin-right:5px;"><img src="https://img.shields.io/badge/©%20License-CC%20BY--NC--SA%204.0-orange" alt=""></a>
-<a target="_blank" href="https://github.com/anschein/blog" title="Source Code" style="display:inline-block;margin-right:5px;"><img src="https://img.shields.io/badge/Github-Blog-blue?style=flat&labelColor=555&logo=GitHub&logoColor=fff" alt=""></a>
-<a target="_blank" href="https://gohugo.io" title="Hugo" style="display:inline-block;margin-right:5px;"><img src="https://img.shields.io/badge/Frame-Hugo-FF4088?style=flat" alt=""></a>
-<a target="_blank" href="https://blowfish.page" title="BlowFish" style="display:inline-block;margin-right:5px;"><img src="https://img.shields.io/badge/Theme-blowfish-3b82f6?style=flat" alt=""></a>
+    <a target="_blank" href="https://zzzhome.cc/index.xml" 
+        title="RSS订阅" style="display:inline-block;margin-right:5px;">
+        <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="">
+    </a>
+    <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" 
+        title="采用 CC BY-NC-SA 4.0 协议" style="display:inline-block;margin-right:5px;">
+        <img src="https://img.shields.io/badge/©%20License-CC%20BY--NC--SA%204.0-orange" alt="">
+    </a>
+    <a target="_blank" href="https://github.com/anschein/blog" 
+        title="Source Code" style="display:inline-block;margin-right:5px;">
+        <img src="https://img.shields.io/badge/Github-Blog-blue?style=flat&labelColor=555&logo=GitHub&logoColor=fff" alt="">
+    </a>
+    <a target="_blank" href="https://gohugo.io" 
+        title="Hugo" style="display:inline-block;margin-right:5px;">
+        <img src="https://img.shields.io/badge/Frame-Hugo-FF4088?style=flat" alt="">
+    </a>
+    <a target="_blank" href="https://blowfish.page" 
+        title="BlowFish" style="display:inline-block;margin-right:5px;">
+        <img src="https://img.shields.io/badge/Theme-blowfish-3b82f6?style=flat" alt="">
+    </a>
+    <a target="_blank" href="https://um.zzzhome.cc/share/jKXLQIoHJNqOji1b/zzzhome.cc" 
+        title="数据分析采用Umami" style="display:inline-block;margin-right:5px;">
+        <img src="https://img.shields.io/badge/Analytics-Umami-E37400?style=flat&logo=googleanalytics&logoColor=white" alt="">
+    </a>
 </div>
 <div>
     <a target="_blank" href="https://notbyai.fyi" title="真人撰写" 
