@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>高级 on zzzHome</title>
-    <link>https://zzzhome.cc/tags/advanced/</link>
-    <description>Recent content in 高级 on zzzHome</description>
+    <title>hugo博客使用git部署中遇到的问题 on zzzHome</title>
+    <link>https://zzzhome.cc/posts/20250118-hugo-git/</link>
+    <description>Recent content in hugo博客使用git部署中遇到的问题 on zzzHome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2006 - 2025 &lt;span class=&#39;inline-block&#39;&gt;&lt;a href=&#39;https://zzzhome.cc/copyright/&#39; target=&#39;_blank&#39;&gt;zzzhome.cc&lt;/a&gt; All Rights Reserved&lt;/span&gt;.</copyright>
-    <atom:link href="https://zzzhome.cc/tags/advanced/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jan 2025 19:11:06 +0800</lastBuildDate><atom:link href="https://zzzhome.cc/posts/20250118-hugo-git/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
