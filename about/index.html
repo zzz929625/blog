@@ -1751,133 +1751,129 @@ createHeatmap();
     <div class="pt-3">
       <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
       <div class="pt-3">
-        <div id="cusdis_thread"
-  data-host="https://cm.zzzhome.cc"
-  data-app-id="71777ae3-6030-49d6-9c8a-516ea1439406"
-  data-page-id="6083a88ee3411b0d17ce02d738f69d47"
-  data-page-url="https://zzzhome.cc/about/"
-  data-page-title="关于"
-></div>
-<script defer src="https://cm.zzzhome.cc/js/widget/lang/zh-cn.js"></script>
-<script async defer src="https://cm.zzzhome.cc/js/cusdis.es.js"></script>
-
-
-<script>
+        <head>
     
-    const updateIframeHeight = (iframe) => {
-        
-        const height = window.innerHeight * 0.3;
-
-        
-        iframe.style.height = `${height}px`;
-    };
-
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+    />
     
-    const updateIframeStylesAndHeight = (iframe) => {
+  </head>
+  <style>
+     
+    :root {
+       
+      --waline-font-size: 16px;
+
+       
+      --waline-white: #ffff;
+       
+      --waline-light-grey: #999;
+       
+      --waline-dark-grey: #666;
+
+       
+      --waline-theme-color: #3b82f6;
+       
+      --waline-active-color: #2ecc71;
+
+       
+      --waline-color: #222;
+       
+      --waline-bgcolor: #fff;
+       
+      --waline-bgcolor-light: #f8f8f8;
+       
+      --waline-bgcolor-hover: #2ecc71;
+       
+      --waline-border-color: #ddd;
+       
+      --waline-disable-bgcolor: rgba(248, 248, 248, 0.4);
+       
+      --waline-disable-color:#bbb;
+       
+      --waline-code-bgcolor: #282c34;
+
+       
+      --waline-bq-color: #f0f0f0;
+
+       
+      --waline-avatar-size: 3.25rem;
+       
+      --waline-m-avatar-size: calc(var(--waline-avatar-size) * 9 / 13);
+
+       
+      --waline-badge-color: #3b82f6;
+       
+      --waline-badge-font-size: 12px;
+
+       
+      --waline-info-border: 1px solid #999;
+       
+      --waline-info-color: #999;
+       
+      --waline-info-font-size: 16px;
+         
+      --waline-info-bgcolor: rgba(235, 235, 235, 0.4);
+
+       
+      --waline-border: 1px solid var(--waline-border-color);
+       
+      --waline-avatar-radius: 50%;
+       
+      --waline-box-shadow: none;
+    }
+
+     
+    html[class="scroll-smooth dark"]{
+       
+      --waline-white: #000;
         
-        const isDarkMode = document.documentElement.classList.contains('scroll-smooth') && document.documentElement.classList.contains('dark');
-        const iframeDocument = iframe.contentDocument || iframe.contentWindow.document;
-
+      --waline-light-grey: #999;
+       
         
-        const aspectRatio = 16 / 9;
-        const width = iframe.offsetWidth;
-        const height = width / aspectRatio;  
+      --waline-dark-grey: #999;
 
+       
+      --waline-color: #c2c2c2;
         
-        iframe.style.height = `${height}px`;
-
+      --waline-bgcolor: #1E293B;
         
-        const additionalStyles = `
-            .dark {
-                background: black !important;
-                color: white !important;
-            }
-            .light {
-                background: white !important;
-                color: black !important;
-            }
-
-            /* label 元素的颜色变化 */
-            label.dark\\:text-gray-200 {
-                color: ${isDarkMode ? 'white' : 'black'} !important;
-            }
-            label.dark\\:text-gray-100 {
-                color: ${isDarkMode ? 'white' : 'black'} !important;
-            }
-            button, input, optgroup, select, textarea {
-                color: ${isDarkMode ? 'white' : 'black'} !important;
-            }
-            .font-medium {
-                color: ${isDarkMode ? 'white' : 'black'} !important;
-            }
-            .text-gray-500 {
-                color: ${isDarkMode ? '#CBD5E1' : '#334155'} !important;
-            }
-            .border-gray-200 {
-                --tw-border-opacity: 1;
-                border-color: rgb(150 150 150);
-            }
-            .bg-gray-200 {
-                --tw-bg-opacity: 1;
-                background-color: rgb(150 150 150);
-            }
-        `;
-
+      --waline-bgcolor-light: #2A354F;
         
-        const styleTag = document.createElement('style');
-        styleTag.innerHTML = additionalStyles;
-        iframeDocument.head.appendChild(styleTag);
-    };
+      --waline-border-color: #666;
+        
+      --waline-disable-bgcolor: rgba(68, 68, 68, 0.8);
+        
+      --waline-disable-color: #888;
 
+       
+      --waline-bq-color: #1F2D4B;
+
+       
+      --waline-info-bgcolor: rgba(31, 45, 75, 0.8);
+        
+      --waline-info-color: #888;
+       
+      --waline-info-border: 1px solid #d3d3d3;
+    }
+    .wl-panel {
+        background: none !important;
+    }
+  </style>
+  <body>
     
-    const observer = new MutationObserver((mutations) => {
-        mutations.forEach((mutation) => {
-            if (mutation.addedNodes.length === 0) return;
-            const iframe = mutation.addedNodes[0];
-            if (iframe.tagName !== 'IFRAME') return;
-
-            
-            iframe.onload = () => {
-                updateIframeStylesAndHeight(iframe);
-            };
-
-            
-            updateIframeStylesAndHeight(iframe);
-
-            
-            window.addEventListener('resize', () => {
-                updateIframeStylesAndHeight(iframe);
-            });
-        });
-    });
-
-    
-    observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
-
-    
-    const themeObserver = new MutationObserver(() => {
-        const isDarkMode = document.documentElement.classList.contains('scroll-smooth') && document.documentElement.classList.contains('dark');
-
-        const iframes = document.querySelectorAll('iframe');
-        iframes.forEach((iframe) => {
-            const iframeDocument = iframe.contentDocument || iframe.contentWindow.document;
-            if (iframeDocument) {
-                
-                updateIframeStylesAndHeight(iframe);
-            }
-        });
-    });
-
-    themeObserver.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] });
-
-    
-    document.addEventListener('DOMContentLoaded', () => {
-        const iframes = document.querySelectorAll('iframe');
-        iframes.forEach((iframe) => {
-            updateIframeStylesAndHeight(iframe);
-        });
-    });
-</script>
+    <div id="waline"></div>
+    <script type="module">
+      import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+  
+      init({
+        el: '#waline',
+        serverURL: 'https://cm.zzzhome.cc',
+        reaction: false, 
+      });
+    </script>
+  </body>
       </div>
     </div>
     
