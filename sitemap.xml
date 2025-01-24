@@ -129,6 +129,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://zzzhome.cc/copyright/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://zzzhome.cc/tags/advanced/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
