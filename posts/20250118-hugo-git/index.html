@@ -1569,6 +1569,22 @@
     .wl-panel {
         background: none !important;
     }
+    .wl-editor {
+        width: calc(100% - 2.7em);
+    }
+    .wl-editor:focus, .wl-input:focus {
+    background: none;
+    }
+    .wl-card .wl-meta>span {
+    display: inline-block;
+    margin-inline-end: .25em;
+    padding: 2px 4px;
+    border-radius: .2em;
+    background: var(--waline-info-bg-color);
+    color: var(--waline-info-color);
+    font-size: 0.8em;
+    line-height: 1;
+}
   </style>
   <body>
     
@@ -1580,6 +1596,8 @@
         el: '#waline',
         serverURL: 'https://cm.zzzhome.cc',
         reaction: false, 
+        pageview: true,
+        dark: 'html[class="scroll-smooth dark"]',
       });
     </script>
   </body>

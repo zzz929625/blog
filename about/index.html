@@ -108,7 +108,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "303"
+    "wordCount": "302"
   }]
   </script>
 
@@ -620,7 +620,7 @@
 
     
     <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
-    style="background-image:url(/1737557102_3753455818146935922_hu2099149083595696795.webp);">
+    style="background-image:url(/1737705129_3547865420706638471_hu824360771214577851.webp);">
     
 
 
@@ -723,7 +723,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <span>303 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">1 分钟</span><span class="px-2 text-primary-500">&middot;</span><span>
+  <span>302 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">1 分钟</span><span class="px-2 text-primary-500">&middot;</span><span>
   
   
     
@@ -1493,7 +1493,7 @@ createHeatmap();
     </span>        
     
 </h2>
-<p>本站使用<strong>hugo</strong>静态博客，<strong>blowfish</strong>主题，托管于<strong>github</strong>，使用<strong>cloudflare</strong>发布，图床使用<strong>Cloudflare R2</strong>，评论系统使用<strong>Cusdis</strong></p>
+<p>本站使用<strong>hugo</strong>静态博客，<strong>blowfish</strong>主题，托管于<strong>github</strong>，使用<strong>cloudflare</strong>发布，图床使用<strong>Cloudflare R2</strong>，评论系统使用<strong>Waline</strong></p>
 <p>特别鸣谢：https://www.hetong-re4per.com/about/，上面的热力图是根据这位博主的样式改的，由于没有联系上他，我就从网页源码上改了一版</p>
 
 
@@ -1531,7 +1531,6 @@ createHeatmap();
 
 </a>
 </p>
-<p><kbd>F12</kbd></p>
 
           
           
@@ -1860,6 +1859,22 @@ createHeatmap();
     .wl-panel {
         background: none !important;
     }
+    .wl-editor {
+        width: calc(100% - 2.7em);
+    }
+    .wl-editor:focus, .wl-input:focus {
+    background: none;
+    }
+    .wl-card .wl-meta>span {
+    display: inline-block;
+    margin-inline-end: .25em;
+    padding: 2px 4px;
+    border-radius: .2em;
+    background: var(--waline-info-bg-color);
+    color: var(--waline-info-color);
+    font-size: 0.8em;
+    line-height: 1;
+}
   </style>
   <body>
     
@@ -1871,6 +1886,8 @@ createHeatmap();
         el: '#waline',
         serverURL: 'https://cm.zzzhome.cc',
         reaction: false, 
+        pageview: true,
+        dark: 'html[class="scroll-smooth dark"]',
       });
     </script>
   </body>
