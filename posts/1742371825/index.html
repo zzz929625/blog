@@ -1268,8 +1268,8 @@
 </span></span><span class="line"><span class="cl">  ;; This option tells KMonad to let non-configured keys act normal
 </span></span><span class="line"><span class="cl">  fallthrough true
 </span></span><span class="line"><span class="cl">)
-</span></span></code></pre></div><p><code>defalias</code> 部分定义按键功能，kmonad 中 <code>tap-hold-next-release</code> 功能表示按下 200 毫秒后开始调用修饰键，这个值 200 是比较合适的，也可以根据自身需求修改，如果调得太短，容易造成正常按键无法触发，太长的话组合键比较难按出来，后面的 <code>a lsft</code> 对应的是 <code>a</code> 键修改为 <code>lsft</code> 左 shift 键，配置其余部分不需要修改。</p>
-<p>在 macbook 上使用时，由于系统层的键盘发送的是 F1-F12 按键，由 mac 系统处理对应 Fn 键的功能转换，由于 kmonad 在系统层对按键进行拦截，所以 Fn 键对应的“将 F1,F2 用作标准功能键”的设置将会失效，需要进行特殊处理，官方教程：<a href="https://github.com/kmonad/kmonad/blob/838f8ec2ad33e84094ea13f50af2d6e0a8137511/keymap/template/apple.kbd" target="_blank">kmonad/keymap/template/apple.kbd</a>，参考官方教程新建一个键盘层用作 Fn 功能键的切换层，配置如下：</p>
+</span></span></code></pre></div><p><code>defalias</code> 部分定义按键功能，kmonad 中 <code>tap-hold-next-release</code> 功能表示按下 200 毫秒后开始调用修饰键，这个值 200 是比较合适的，也可以根据自身需求修改，如果调得太短，容易造成正常按键无法触发，太长的话组合键比较难按出来，后面的 <code>a lsft</code> 对应的是 <kbd>A</kbd> 键修改为 <code>lsft</code> 左 <kbd>shift</kbd> 键，配置其余部分不需要修改。</p>
+<p>在 macbook 上使用时，由于系统层的键盘发送的是 F1-F12 按键，由 mac 系统处理对应 <kbd>Fn</kbd> 键的功能转换，由于 kmonad 在系统层对按键进行拦截，所以 <kbd>Fn</kbd> 键对应的“将 F1,F2 用作标准功能键”的设置将会失效，需要进行特殊处理，官方教程：<a href="https://github.com/kmonad/kmonad/blob/838f8ec2ad33e84094ea13f50af2d6e0a8137511/keymap/template/apple.kbd" target="_blank">kmonad/keymap/template/apple.kbd</a>，参考官方教程新建一个键盘层用作 <kbd>Fn</kbd> 功能键的切换层，配置如下：</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">(defcfg
 </span></span><span class="line"><span class="cl">  input  (iokit-name)
 </span></span><span class="line"><span class="cl">  output (kext)
@@ -1320,7 +1320,7 @@
 </span></span><span class="line"><span class="cl">  _    _    _    _    _    _    _    _    _    _    _    _    _
 </span></span><span class="line"><span class="cl">  _    _    _    _              _              _    _    _    _    _
 </span></span><span class="line"><span class="cl">)
-</span></span></code></pre></div><p>其中 <code>fn (around (layer-toggle homerow) fn)</code> 的意思是 fn 键按下之后调用 homerow 这个图层，这个图层中设置了 F1-F12 对应的 mac 系统上的功能键，如果不按 fn 则是标准功能键，如果要想实现不按 fn 键直接使用 mac 系统的功能键，则将两个图层中第一行对换即可。</p>
+</span></span></code></pre></div><p>其中 <code>fn (around (layer-toggle homerow) fn)</code> 的意思是 <kbd>Fn</kbd> 键按下之后调用 homerow 这个图层，这个图层中设置了 F1-F12 对应的 mac 系统上的功能键，如果不按 <kbd>Fn</kbd> 则是标准功能键，如果要想实现不按 <kbd>Fn</kbd> 键直接使用 mac 系统的功能键，则将两个图层中第一行对换即可。</p>
 
 
 <h2 class="relative group">参考链接 
