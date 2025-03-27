@@ -1,26 +1,134 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>所有文章 on zzzHome</title><link>https://zzzhome.cc/posts/</link><description>Recent content in 所有文章 on zzzHome</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 - 2025 &lt;span class='inline-block'>&lt;a href='https://zzzhome.cc/copyright/' target='_blank'>zzzhome.cc&lt;/a> All Rights Reserved&lt;/span>.</copyright><lastBuildDate>Wed, 19 Mar 2025 16:10:25 +0800</lastBuildDate><atom:link href="https://zzzhome.cc/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Kmonad的安装与配置</title><link>https://zzzhome.cc/posts/1742371825/</link><pubDate>Wed, 19 Mar 2025 16:10:25 +0800</pubDate><guid>https://zzzhome.cc/posts/1742371825/</guid><description>使用kmonad进行改键</description></item><item><title>怀孕有感</title><link>https://zzzhome.cc/posts/20250224-07/</link><pubDate>Mon, 24 Feb 2025 14:33:04 +0800</pubDate><guid>https://zzzhome.cc/posts/20250224-07/</guid><description>&lt;h1 class="relative group">背景图介绍
-&lt;div id="%E8%83%8C%E6%99%AF%E5%9B%BE%E4%BB%8B%E7%BB%8D" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E8%83%8C%E6%99%AF%E5%9B%BE%E4%BB%8B%E7%BB%8D" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h1>
-&lt;blockquote>
-&lt;p>本文图片由Stable diffusion生成，使用 &lt;code>flux DEV&lt;/code> 模型和 &lt;code>MysticFantasy&lt;/code>、&lt;code>MysticRealism&lt;/code>、&lt;code>FluxDFaeTasticDetails&lt;/code> LORA，提示词如下：&lt;/p></description></item><item><title>读《一桩事先张扬的凶杀案》有感</title><link>https://zzzhome.cc/posts/20250223-comment1/</link><pubDate>Sun, 23 Feb 2025 23:14:37 +0800</pubDate><guid>https://zzzhome.cc/posts/20250223-comment1/</guid><description>&lt;h1 class="relative group">豆瓣简介
-&lt;div id="%E8%B1%86%E7%93%A3%E7%AE%80%E4%BB%8B" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E8%B1%86%E7%93%A3%E7%AE%80%E4%BB%8B" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h1>
-&lt;p>&lt;a href="https://book.douban.com/subject/24382569/" target="_blank">一桩事先张扬的凶杀案-豆瓣&lt;/a>&lt;/p></description></item><item><title>读《白夜行》有感</title><link>https://zzzhome.cc/posts/20250223-baiyexing/</link><pubDate>Sun, 23 Feb 2025 21:34:44 +0800</pubDate><guid>https://zzzhome.cc/posts/20250223-baiyexing/</guid><description>&lt;h1 class="relative group">豆瓣简介
-&lt;div id="%E8%B1%86%E7%93%A3%E7%AE%80%E4%BB%8B" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E8%B1%86%E7%93%A3%E7%AE%80%E4%BB%8B" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h1>
-&lt;p>&lt;a href="https://book.douban.com/subject/3259440/" target="_blank">白夜行-豆瓣&lt;/a>&lt;/p></description></item><item><title>群晖ABB套件在windows上备份不启动问题</title><link>https://zzzhome.cc/posts/20250122-synology-abb/</link><pubDate>Wed, 22 Jan 2025 22:31:55 +0800</pubDate><guid>https://zzzhome.cc/posts/20250122-synology-abb/</guid><description>解决群晖备份套件在windows上备份不启动的问题</description></item><item><title>读《绝叫》有感</title><link>https://zzzhome.cc/posts/20250118-juejiao/</link><pubDate>Sat, 18 Jan 2025 21:34:44 +0800</pubDate><guid>https://zzzhome.cc/posts/20250118-juejiao/</guid><description>&lt;p>聚焦女性处境的悬疑小说 重点不在寻觅凶案细节 而是女性成长过程中的陷阱 和生而为女性的“原罪” 本书让我思考如下问题&lt;/p></description></item><item><title>hugo博客使用git部署中遇到的问题</title><link>https://zzzhome.cc/posts/20250118-hugo-git/</link><pubDate>Sat, 18 Jan 2025 19:11:06 +0800</pubDate><guid>https://zzzhome.cc/posts/20250118-hugo-git/</guid><description>windows电脑在hugo博客使用git部署中会遇到CRLF转换问题导致js完整性校验失效</description></item><item><title>Proxmox下安装Windows 11</title><link>https://zzzhome.cc/posts/20250116-windows-install/</link><pubDate>Thu, 16 Jan 2025 20:34:48 +0800</pubDate><guid>https://zzzhome.cc/posts/20250116-windows-install/</guid><description>Proxmox下安装Windows 11与基本配置</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>所有文章 on zzzHome</title>
+    <link>https://zzzhome.cc/posts/</link>
+    <description>Recent content in 所有文章 on zzzHome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 - 2025 &lt;span class=&#39;inline-block&#39;&gt;&lt;a href=&#39;https://zzzhome.cc/copyright/&#39; target=&#39;_blank&#39;&gt;zzzhome.cc&lt;/a&gt; All Rights Reserved&lt;/span&gt;.</copyright>
+    <lastBuildDate>Thu, 27 Mar 2025 20:52:37 +0800</lastBuildDate><atom:link href="https://zzzhome.cc/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Emacs Picgo插件</title>
+      <link>https://zzzhome.cc/posts/1743079957/</link>
+      <pubDate>Thu, 27 Mar 2025 20:52:37 +0800</pubDate>
+      
+      <guid>https://zzzhome.cc/posts/1743079957/</guid>
+      <description>一个emacs插件，支持调用picgo上传图片至图床</description>
+      
+    </item>
+    
+    <item>
+      <title>Kmonad的安装与配置</title>
+      <link>https://zzzhome.cc/posts/1742371825/</link>
+      <pubDate>Wed, 19 Mar 2025 16:10:25 +0800</pubDate>
+      
+      <guid>https://zzzhome.cc/posts/1742371825/</guid>
+      <description>使用kmonad进行改键</description>
+      
+    </item>
+    
+    <item>
+      <title>怀孕有感</title>
+      <link>https://zzzhome.cc/posts/20250224-07/</link>
+      <pubDate>Mon, 24 Feb 2025 14:33:04 +0800</pubDate>
+      
+      <guid>https://zzzhome.cc/posts/20250224-07/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;背景图介绍 
+    &lt;div id=&#34;%E8%83%8C%E6%99%AF%E5%9B%BE%E4%BB%8B%E7%BB%8D&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%83%8C%E6%99%AF%E5%9B%BE%E4%BB%8B%E7%BB%8D&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本文图片由Stable diffusion生成，使用 &lt;code&gt;flux DEV&lt;/code&gt; 模型和 &lt;code&gt;MysticFantasy&lt;/code&gt;、&lt;code&gt;MysticRealism&lt;/code&gt;、&lt;code&gt;FluxDFaeTasticDetails&lt;/code&gt; LORA，提示词如下：&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>读《一桩事先张扬的凶杀案》有感</title>
+      <link>https://zzzhome.cc/posts/20250223-comment1/</link>
+      <pubDate>Sun, 23 Feb 2025 23:14:37 +0800</pubDate>
+      
+      <guid>https://zzzhome.cc/posts/20250223-comment1/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;豆瓣简介 
+    &lt;div id=&#34;%E8%B1%86%E7%93%A3%E7%AE%80%E4%BB%8B&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%B1%86%E7%93%A3%E7%AE%80%E4%BB%8B&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/24382569/&#34; target=&#34;_blank&#34;&gt;一桩事先张扬的凶杀案-豆瓣&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>读《白夜行》有感</title>
+      <link>https://zzzhome.cc/posts/20250223-baiyexing/</link>
+      <pubDate>Sun, 23 Feb 2025 21:34:44 +0800</pubDate>
+      
+      <guid>https://zzzhome.cc/posts/20250223-baiyexing/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;豆瓣简介 
+    &lt;div id=&#34;%E8%B1%86%E7%93%A3%E7%AE%80%E4%BB%8B&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%B1%86%E7%93%A3%E7%AE%80%E4%BB%8B&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/3259440/&#34; target=&#34;_blank&#34;&gt;白夜行-豆瓣&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>群晖ABB套件在windows上备份不启动问题</title>
+      <link>https://zzzhome.cc/posts/20250122-synology-abb/</link>
+      <pubDate>Wed, 22 Jan 2025 22:31:55 +0800</pubDate>
+      
+      <guid>https://zzzhome.cc/posts/20250122-synology-abb/</guid>
+      <description>解决群晖备份套件在windows上备份不启动的问题</description>
+      
+    </item>
+    
+    <item>
+      <title>读《绝叫》有感</title>
+      <link>https://zzzhome.cc/posts/20250118-juejiao/</link>
+      <pubDate>Sat, 18 Jan 2025 21:34:44 +0800</pubDate>
+      
+      <guid>https://zzzhome.cc/posts/20250118-juejiao/</guid>
+      <description>&lt;p&gt;聚焦女性处境的悬疑小说 重点不在寻觅凶案细节 而是女性成长过程中的陷阱 和生而为女性的“原罪” 本书让我思考如下问题&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>hugo博客使用git部署中遇到的问题</title>
+      <link>https://zzzhome.cc/posts/20250118-hugo-git/</link>
+      <pubDate>Sat, 18 Jan 2025 19:11:06 +0800</pubDate>
+      
+      <guid>https://zzzhome.cc/posts/20250118-hugo-git/</guid>
+      <description>windows电脑在hugo博客使用git部署中会遇到CRLF转换问题导致js完整性校验失效</description>
+      
+    </item>
+    
+    <item>
+      <title>Proxmox下安装Windows 11</title>
+      <link>https://zzzhome.cc/posts/20250116-windows-install/</link>
+      <pubDate>Thu, 16 Jan 2025 20:34:48 +0800</pubDate>
+      
+      <guid>https://zzzhome.cc/posts/20250116-windows-install/</guid>
+      <description>Proxmox下安装Windows 11与基本配置</description>
+      
+    </item>
+    
+  </channel>
+</rss>
