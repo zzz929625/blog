@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 - 2025 &lt;span class=&#39;inline-block&#39;&gt;&lt;a href=&#39;https://zzzhome.cc/copyright/&#39; target=&#39;_blank&#39;&gt;zzzhome.cc&lt;/a&gt; All Rights Reserved&lt;/span&gt;.</copyright>
-    <lastBuildDate>Thu, 27 Mar 2025 20:52:37 +0800</lastBuildDate><atom:link href="https://zzzhome.cc/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Mar 2025 12:37:07 +0800</lastBuildDate><atom:link href="https://zzzhome.cc/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Emacs学习笔记一：选择Emacs的原因及基本安装</title>
+      <link>https://zzzhome.cc/posts/1743136627/</link>
+      <pubDate>Fri, 28 Mar 2025 12:37:07 +0800</pubDate>
+      
+      <guid>https://zzzhome.cc/posts/1743136627/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;为什么选择 emacs？ 
+    &lt;div id=&#34;%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A9-emacs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A9-emacs&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;我曾经在很多笔记软件中横跳，深度使用过 &lt;strong&gt;obsidian&lt;/strong&gt; ， &lt;strong&gt;logseq&lt;/strong&gt; ，也试用过 &lt;strong&gt;anytype&lt;/strong&gt; ， &lt;strong&gt;appflowy&lt;/strong&gt; ， &lt;strong&gt;notion&lt;/strong&gt; ， &lt;strong&gt;思源笔记&lt;/strong&gt; 等，基本上叫得上名的软件我都尝试过，却没有一款能够真正起到不折腾笔记软件回归记录本质的，而且每使用一个软件我都从功能性上下手，想要达到 all in one，或许是其中某一个小功能不满意，或许是某一个需求没有达到，一直反复调试，但是全部都是流于形式，真正写下来的没有多少东西，但是最后为什么选择了最折腾的 emacs 呢？&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Emacs Picgo插件</title>
