@@ -3,19 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://zzzhome.cc/authors/zwt/</loc>
+    <lastmod>2025-11-16T20:50:14+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/tags/</loc>
+    <lastmod>2025-11-16T20:50:14+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/categories/</loc>
+    <lastmod>2025-11-16T20:50:14+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/</loc>
+    <lastmod>2025-11-16T20:50:14+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/tags/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2025-11-16T20:50:14+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2025-11-16T20:50:14+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2025-11-16T20:50:14+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/posts/1763297414/</loc>
+    <lastmod>2025-11-16T20:50:14+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/posts/</loc>
+    <lastmod>2025-11-16T20:50:14+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://zzzhome.cc/authors/</loc>
+    <lastmod>2025-11-16T20:50:14+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://zzzhome.cc/tags/doom-emacs/</loc>
     <lastmod>2025-03-28T12:37:07+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/tags/emacs/</loc>
+    <loc>https://zzzhome.cc/categories/emacs/</loc>
     <lastmod>2025-03-28T12:37:07+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/categories/emacs/</loc>
+    <loc>https://zzzhome.cc/tags/emacs/</loc>
     <lastmod>2025-03-28T12:37:07+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -33,49 +93,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/authors/zwt/</loc>
-    <lastmod>2025-03-28T12:37:07+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://zzzhome.cc/tags/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2025-03-28T12:37:07+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zzzhome.cc/tags/</loc>
-    <lastmod>2025-03-28T12:37:07+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://zzzhome.cc/categories/</loc>
-    <lastmod>2025-03-28T12:37:07+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://zzzhome.cc/</loc>
-    <lastmod>2025-03-28T12:37:07+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://zzzhome.cc/posts/</loc>
-    <lastmod>2025-03-28T12:37:07+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://zzzhome.cc/series/</loc>
-    <lastmod>2025-03-28T12:37:07+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://zzzhome.cc/authors/</loc>
     <lastmod>2025-03-28T12:37:07+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
